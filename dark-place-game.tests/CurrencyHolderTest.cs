@@ -101,6 +101,7 @@ namespace dark_place_game.tests
                 ch.put10Currency(10);
             };
             Assert.Throws<ArgumentException>(mauvaisAppel);
+            //Assert.Throws<NotEnoughtSpaceInCurrencyHolderExeption>(mauvaisAppel);
             
         }
 
@@ -150,6 +151,7 @@ namespace dark_place_game.tests
                 ch.Withdraw(-60);
             };
             Assert.Throws<ArgumentException>(mauvaisAppel);
+            //Assert.Throws<CantWithDrawMoreThanCurrentAmountExeption>(mauvaisAppel);
         }
 
         [Fact]

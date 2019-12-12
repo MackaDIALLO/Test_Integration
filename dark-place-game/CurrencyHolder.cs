@@ -70,8 +70,9 @@ namespace dark_place_game
         }
 
         public void put10Currency(int nb){
-            if(capacity < currentAmount+nb || nb <= 0)
+            if(capacity < currentAmount+nb || nb <= 0) 
                 throw new System.ArgumentException("Argument invalide");
+                //throw new NotEnoughtSpaceInCurrencyHolderExeption();
 
             currentAmount += nb;
             
@@ -99,6 +100,7 @@ namespace dark_place_game
         {
             if(capacity < currentAmount-amount || amount <= 0)
                 throw new System.ArgumentException("Argument invalide");
+                //throw new CantWithDrawMoreThanCurrentAmountExeption();
 
             currentAmount -= amount;
         }
