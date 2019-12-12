@@ -1,0 +1,11 @@
+D:\Users\macka.diallo\dark-place-engine\dark-place-game\bin\Debug\netcoreapp3.1\dark-place-game.exe
+D:\Users\macka.diallo\dark-place-engine\dark-place-game\bin\Debug\netcoreapp3.1\dark-place-game.deps.json
+D:\Users\macka.diallo\dark-place-engine\dark-place-game\bin\Debug\netcoreapp3.1\dark-place-game.runtimeconfig.json
+D:\Users\macka.diallo\dark-place-engine\dark-place-game\bin\Debug\netcoreapp3.1\dark-place-game.runtimeconfig.dev.json
+D:\Users\macka.diallo\dark-place-engine\dark-place-game\bin\Debug\netcoreapp3.1\dark-place-game.dll
+D:\Users\macka.diallo\dark-place-engine\dark-place-game\bin\Debug\netcoreapp3.1\dark-place-game.pdb
+D:\Users\macka.diallo\dark-place-engine\dark-place-game\obj\Debug\netcoreapp3.1\dark-place-game.csprojAssemblyReference.cache
+D:\Users\macka.diallo\dark-place-engine\dark-place-game\obj\Debug\netcoreapp3.1\dark-place-game.AssemblyInfoInputs.cache
+D:\Users\macka.diallo\dark-place-engine\dark-place-game\obj\Debug\netcoreapp3.1\dark-place-game.AssemblyInfo.cs
+D:\Users\macka.diallo\dark-place-engine\dark-place-game\obj\Debug\netcoreapp3.1\dark-place-game.dll
+D:\Users\macka.diallo\dark-place-engine\dark-place-game\obj\Debug\netcoreapp3.1\dark-place-game.pdb

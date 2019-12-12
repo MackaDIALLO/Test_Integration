@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\macka.diallo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\macka.diallo\\.nuget\\packages"
+    ]
+  }
+}
